@@ -1,0 +1,9 @@
+com\example\landingapp\repository\UserRepository.class
+com\example\landingapp\LandingAppApplication.class
+com\example\landingapp\model\Admin.class
+com\example\landingapp\config\CorsConfig.class
+com\example\landingapp\service\UserService.class
+com\example\landingapp\config\SecurityConfig.class
+com\example\landingapp\controller\AuthController.class
+com\example\landingapp\model\User.class
+com\example\landingapp\controller\AdminController.class
